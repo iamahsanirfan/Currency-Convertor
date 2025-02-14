@@ -3,6 +3,6 @@ Author: Ahsan Paracha
 <br>
 USD, EUR, INR & PKR
 <br>
-Class Assignment Practice code
+Class Assignment <br> Practice code
 <br>
 GIAIC
